@@ -32,20 +32,7 @@ Estoy enfocado en seguir desarrollando proyectos que consoliden mis habilidades 
 # <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q2c2lvaW4yeDNqaGMwaGxjZnVzcTAzdHIwNHFjMTF4Ymh2dmd3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sGS7ZP1T8qaeq2k5MM/giphy.gif" width = 60px></picture> Objetivos actuales (Aprendizaje y profundizacion) 
 
 <details>
-<summary> Golang 💻 :</summary>
-  
-<br/>
-
- 🔵 Framework Web: Gin / Echo
- <br/>
- 🔵 Proteccion de rutas JWT
- <br/>
- 🔵 Pasarela de pagos: Webpay de transbank / Paypal
- 
-</details>
-
-<details>
-<summary> Python 🐍 : </summary>
+<summary> Aprendiendo Python 🐍 : </summary>
   
 <br/>
 
@@ -56,21 +43,6 @@ Estoy enfocado en seguir desarrollando proyectos que consoliden mis habilidades 
 🟡 Automatización y Web Scraping
 <br/>
 🟡 Scripts ofensivos (escaneo de puertos, brute force básico)
-
-</details>
-
-<details>
-<summary> Ciber-Seguridad 🛡️: </summary>
-  
-<br/>
-
-🛡️ Conceptos básicos de redes, triada CIA, protocolos
-<br/>
-🛡️ Virtualizacion
-<br/>
-🛡️ Escaneo y enumeración con Nmap
-<br/>
-🛡️ Explotación básica de vulnerabilidades conocidas
 
 </details>
 
